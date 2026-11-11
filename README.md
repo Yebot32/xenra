@@ -6,7 +6,7 @@
 
 <h1 align="center"> Xenra - emulator </h1>
 
-Xenra is an Android-focused Xbox Original and 360 emulator that runs games in XISO and ISO format only.
+Xenra is an Xbox Original and 360 emulator that runs games in XISO and ISO format only.
 
 ---
 
@@ -28,9 +28,9 @@ Xenra brings Original Xbox and Xbox 360 emulation together into a single cohesiv
 
 ## Device Requirements
 
-- Android 10+
+- Android 10+ or IOS 27+ (untested on lower iOS)
 - 64-bit ARM device (arm64-v8a)
-- Vulkan-capable GPU/device
+- Vulkan or Metal capable GPU/device
 - **Recommended:** 6 GB RAM or higher for better stability and performance
 
 ---
